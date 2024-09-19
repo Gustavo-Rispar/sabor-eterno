@@ -1,0 +1,76 @@
+*{
+    margin: 0 ;
+    
+    box-sizing: border-box;
+}
+
+.container{
+    display: flex;
+  }
+    
+
+body{
+    background-image: url(../img/background_sb_02.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
+
+nav{
+    background-color: red;
+}
+
+nav li{
+    display: inline-block;
+}
+
+nav li a{
+    display: inline-block;
+    color: yellow;
+    text-decoration: none;
+    padding: 15px;
+}
+
+nav li a:hover{
+    background-color: rgb(96, 96, 96) ;
+    
+}
+#descrição{
+    background-color: rgb(96, 96, 96) ;
+    color: white;
+    border: 2px;
+}
+
+table, th, td {
+    background-color: rgb(238, 255, 6);
+    border: 3px solid;
+    width: 1200PX;
+
+  }
+
+h1{
+    background-color: rgb(63, 63, 63);
+    color:white;
+    text-align: center;
+    }
+.button{
+    text-align: center;
+}
+.labal{ 
+    text-align: center;
+    color: white;
+    background-color: black
+}
+fieldset{
+    background-color: rgb(87, 87, 87);
+}
+        
+
+    
+
+
+
+
+

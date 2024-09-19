@@ -1,0 +1,28 @@
+body{
+    background-image: url(../img/background_sb_02.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 95vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+  fieldset{
+    background-color:rgb(255, 255 , 191);
+    width: 510px;
+    height: 510px;
+  }
+.dov2{
+  text-align: center;
+}
+
+input{
+  width:590px;
+}
+
+.botaosubmit{
+  background-color:burlywood;
+}
+
+
